@@ -1,0 +1,17 @@
+{
+  "name": "LMW Mathematics",
+  "short_name": "LMW",
+  "description": "Learning Mathematics Website",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "lmw-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
